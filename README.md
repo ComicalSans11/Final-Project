@@ -1,5 +1,5 @@
 # Corona Crazy
-## by Group Name
+## by Corona Productions
 ### For BL-MSCH-C220 at Indiana University, Bloomington
 ### April 29, 2020
 
@@ -24,12 +24,12 @@ Future plans: A continued and updated version of this game will include added ve
 ###Team Members
 
   * Grant Jackson
-    * Master Repository, coding, 
+    * Master Repository, coding
   * Ricardo Aguilar
-    * Background image, menu, game over screen
+    * Main structure, main screen, gameover screen
   * Jose Liahut
     * Characters, README.md, Storytelling
   * Jackson Summers
-    * Contributions
+    * Background, coding, textures
     
 
