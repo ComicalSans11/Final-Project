@@ -1,0 +1,48 @@
+Name:Samantha Galati
+Date:05/01/20
+
+Project: Captain Corona 
+Group's repository: Final-Project1
+
+
+
+What is something you learned by reviewing this group's project?
+
+ I learned that having a story makes games feel more impactful and fun.
+
+In what ways does this game reflect the theme?
+
+ You play as a doctor trying to cure people of the virus.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+ A full game mechanic with menus and winning and losing screens.
+
+What suggestions would you have for this group to improve the game?
+
+ Maybe a directions option on the menu that tells players what keys do what. 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+ Nope
+
+Is it clear that every group member participated?
+
+ Yes.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+
+ Nothing really it's pretty descriptive and answers all the questions well.
+
+Pay a compliment to the group based on the quality of the game.
+
+I like the story sound effects and characters 
+
+How many of your points would you allocate to this project?
+
+
+3/5
