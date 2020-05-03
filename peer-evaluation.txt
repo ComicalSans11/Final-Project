@@ -1,7 +1,7 @@
 Name: Hongbo Na
 Date: 05/02/2020
 
-Project: Corona Crazy
+Project: UV Productions
 Group's repository: https://github.com/ComicalSans11/Final-Project
 
 
